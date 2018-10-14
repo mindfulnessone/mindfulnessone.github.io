@@ -6,7 +6,7 @@ main_nav: true
 order: 5
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/Website ACD - cut picture.jpg" title="Profile Picture" class="profile">
 
 Katarina Tabi is a mindfulness teacher and a neuroscientist passionate about exploring the world and understanding the nature of life.
 
