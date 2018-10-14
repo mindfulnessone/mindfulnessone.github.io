@@ -16,6 +16,7 @@ Katarina is interested and open to a variety of techniques that help people cult
 Katarina has worked in the research of brain and mind most of her professional career. With a background in neuropsychopharmacology, the interest in questions what makes some people thrive and some people suffer, led her to dive into the area of mental health. Her PhD project in e-Mental Health looks into how technology can innovate and increase accessibility to mental health care. At present, Katarina works at the Reproductive Mental Health Clinic in BC Children’ s Hospital in Vancouver, where she designs new research studies and projects with the intention to help new families affected by mental issues to live a healthier and happier life.
 
 
+<img src="{{ site.baseurl }}/assets/karimatka salt spring2.jpg" title="Practicing" class="profile">
 
 THE MORE PERSONAL VERSION
 
