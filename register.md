@@ -6,7 +6,7 @@ main_nav: true
 order: 4
 ---
 
-To register for the free info session, continue below. Registration will reserve you a seat in the room.
+To register for the free info session, please continue below. Registration will reserve you a seat in the room.
 
 To register for the 8-week MBSR course, [click here](/register-8week-mbsr/)
 
