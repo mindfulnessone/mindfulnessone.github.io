@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Mindfulness Based Stress Reduction in Vancouver
+title: Mindfulness Based Stress Reduction<br> in Vancouver
 subtitle: “You can't stop the waves, but you can learn to surf.”<br>― Jon Kabat-Zinn
 
 email: katarina.mindfulness@gmail.com
