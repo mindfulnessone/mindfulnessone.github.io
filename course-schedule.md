@@ -25,3 +25,17 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 - Notes: In order to fully benefit from the program, you are strongly encouraged to set aside 30 to 40 minutes for daily home-practice.
 
 [Register](/register-8week-mbsr/)
+
+#### Schedule
+
+| Session   | Date         | Time     |
+|-----------|--------------|----------|
+| Session 1 | Tue, Oct. 30 | 6:30-9pm |
+| Session 2 | Tue, Nov. 6  | 6:30-9pm |
+| Session 3 | Tue, Nov. 13 | 6:30-9pm |
+| Session 4 | Tue, Nov. 20 | 6:30-9pm |
+| Session 5 | Tue, Nov. 27 | 6:30-9pm |
+| Session 6 | Tue, Dec. 4  | 6:30-9pm |
+| All-Day | TBA (weekend day in Dec.) | TBA (6h length) |
+| Session 7 | Tue, Dec. 11 | 6:30-9pm |
+| Session 8 | Tue, Dec. 18 | 6:30-9pm |
