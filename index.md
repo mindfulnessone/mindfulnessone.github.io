@@ -15,6 +15,6 @@ Dear friend, welcome!
 Join us for the MBSR 8-week course in Vancouver.
 
 [Meet Instructor](/about/)<br>
-Katarina Tabi is a mindfulness teacher and scientist. She is a qualified MBSR teacher, trained by the University of Massachusetts Medical School, where the program was originally developed by Prof. Jon Kabat-Zinn. 
+Katarina Tabi is a scientist, mindfulness teacher and foremost, a long-term mindfulness practitioner. She is a qualified MBSR teacher, trained by the University of Massachusetts Medical School. 
 
 [Subscribe](/contact/)
