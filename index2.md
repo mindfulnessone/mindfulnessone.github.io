@@ -28,6 +28,7 @@ Katarina Tabi is a scientist, mindfulness teacher and foremost, a long-term mind
 
 <span class="fas fa-brain" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
 
+![meet](/assets/greenheart.jpg)
 ## Hello
 
 World does it work? Testing column 1 
