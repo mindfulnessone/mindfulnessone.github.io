@@ -4,6 +4,7 @@ title: Home
 main_nav: false
 order: 1
 permalink: /index2/
+sitemap: false
 ---
 
 
