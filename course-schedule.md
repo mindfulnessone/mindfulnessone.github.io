@@ -7,7 +7,7 @@ order: 3
 ---
 
 ### Free Info Session about MBSR
-Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. An introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8 week MBSR program).
+Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8 week MBSR program).
 
 - When: October 23, 2018 \| 7pm to 8:30pm
 - Where: West Point Grey Community Centre, 4350 W 2nd Ave, Vancouver, BC V6R 1K3, Library room
