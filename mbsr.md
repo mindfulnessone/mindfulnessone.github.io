@@ -9,13 +9,9 @@ order: 2
 
 ## Mindfulness-Based Stress Reduction (MBSR)
 
-Designed in 1979 by Professor John Kabat-Zinn at the University of Massachusetts
-Medical School, MBSR is the gold-standard in mindfulness interventions. Three
-decades of published research indicate that the majority of people who complete
-this standardised program report greater ability to cope more effectively with
-stressful situations and improvement in their quality of life.
+Designed in 1979 by Professor John Kabat-Zinn at the University of Massachusetts Medical School, MBSR is the gold-standard in mindfulness interventions. Three decades of published research indicate that the majority of people who complete this standardized program report greater ability to cope more effectively with stressful situations and improvement in their quality of life. The program supports participants to draw on their inner resources and natural capacity to actively engage in caring for themselves and finding greater balance, ease, and peace of mind.
 
-#### Conditions, for which MBSR proved to be helpful.
+#### Conditions, for which MBSR showed to be helpful.
 * Anxiety & Panic Attacks
 * Work, Family, and Financial Stress
 * Asthma
@@ -61,7 +57,6 @@ The program includes:
 - walking with awareness
 - talks on different topics
 - group dialogue
-- discussion on enhancing mindfulness in daily life
 - home practice
 
 Daily home practice is strongly encouraged and supported with take-home materials.
@@ -69,7 +64,9 @@ Daily home practice is strongly encouraged and supported with take-home material
 
 ## What Is Mindfulness?
 
-Mindfulness means being aware of the present moment experience - our thoughts, feelings, bodily sensations, or surrounding environment, through a gentle, nurturing lens. Mindfulness also involves acceptance, meaning that we pay attention to our thoughts and feelings without judging them—without believing, for instance, that there’s a “right” or “wrong” way to think or feel in a given moment. When we practice mindfulness, our mind tunes into what we’re sensing in the present moment rather than rehashing the past or imagining the future.
+Mindfulness means being aware of the present moment experience - our thoughts, feelings, bodily sensations, or surrounding environment, through a gentle and nurturing lens. Mindfulness also involves acceptance, meaning that we pay attention to our thoughts and feelings without judging them—without believing that there’s a “right” or “wrong” way to think or feel in a given moment. When we practice mindfulness, our mind tunes into what we’re experiencing in the present moment rather than ruminating on the past or anticipating the future.
 
-Watch Jon Kabat-Zinn explaining what is mindfulness:
+Watch Jon Kabat-Zinn and his colleagues from the University of Massachusetts explaining what is mindfulness:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HmEo6RI4Wvs?rel=0&amp;start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WGUWt4TjBKE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
