@@ -25,6 +25,8 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 #paginate: 5
 #paginate_path: "/page:num/"
 inter_post_navigation: false

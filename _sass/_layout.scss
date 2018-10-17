@@ -429,3 +429,46 @@ pre code.hljs {
 		}
 	}
 }
+
+
+/*
+*   Index columns
+*/
+.index-cols {
+    h2 {
+        text-align: center;
+    }
+
+    .index-col-1 {
+        @include span-columns(12);
+        @include media ($mobile) {
+            @include span-columns(12);
+        }
+        @include media ($tablet) {
+            @include span-columns(4);
+        }
+    }
+
+    .index-col-2 {
+        @include span-columns(12);
+        @include media ($mobile) {
+            @include span-columns(12);
+            margin-right: 0;
+        }
+        @include media ($tablet) {
+            @include span-columns(4);
+        }
+    }
+    /*
+    *   Site Description/Signature (right)
+    */
+    .index-col-3 {
+        @include span-columns(12);
+        @include media ($mobile) {
+            @include span-columns(12);
+        }
+        @include media ($tablet) {
+            @include span-columns(4);
+        }
+    }
+}
