@@ -66,7 +66,8 @@ Daily home practice is strongly encouraged and supported with take-home material
 
 Mindfulness means being aware of the present moment experience - our thoughts, feelings, bodily sensations, or surrounding environment, through a gentle and nurturing lens. Mindfulness also involves acceptance, meaning that we pay attention to our thoughts and feelings without judging them—without believing that there’s a “right” or “wrong” way to think or feel in a given moment. When we practice mindfulness, our mind tunes into what we’re experiencing in the present moment rather than ruminating on the past or anticipating the future.
 
-Watch Jon Kabat-Zinn and his colleagues from the University of Massachusetts explaining what is mindfulness:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HmEo6RI4Wvs?rel=0&amp;start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Watch Jon Kabat-Zinn and his colleagues Saki and Florence from the CFM, University of Massachusetts Medical School explaining what is mindfulness:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGUWt4TjBKE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmEo6RI4Wvs?rel=0&amp;start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
