@@ -68,6 +68,6 @@ Mindfulness means being aware of the present moment experience - our thoughts, f
 
 Watch Jon Kabat-Zinn and his colleagues Saki and Florence from the CFM, University of Massachusetts Medical School explaining what is mindfulness:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WGUWt4TjBKE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe height="315" src="https://www.youtube.com/embed/WGUWt4TjBKE?rel=0" frameborder="0" allow="autoplay; encrypted-media" style="max-width:560px; width:100%" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HmEo6RI4Wvs?rel=0&amp;start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe height="315" src="https://www.youtube.com/embed/HmEo6RI4Wvs?rel=0&amp;start=6" frameborder="0" allow="autoplay; encrypted-media" style="max-width:560px; width:100%" allowfullscreen></iframe>
