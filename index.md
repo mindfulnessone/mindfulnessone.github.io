@@ -10,8 +10,6 @@ order: 1
 <div class="index-cols">
 <div class="index-col-1">
 
-<span class="fas fa-brain" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
-
 
 [![Learn more](/assets/lotus1.jpg)](/mbsr/)
 [Learn more](/mbsr/) about mindfulness and Mindfulness-Based Stress Reduction (MBSR).
@@ -20,7 +18,6 @@ order: 1
 
 <div class="index-col-2">
 
-<span class="fas fa-om" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
 
 [![Register](/assets/sprout1.jpg)](/register/)
 [Register here](/register/) for the upcoming Free info session about MBSR on October 23, 2018.
@@ -30,7 +27,7 @@ order: 1
 
 <div class="index-cols">
 <div class="index-col-3">
-<span class="far fa-hand-peace" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
+
 
 [![Schedule](/assets/greenheart1.jpg)](/course-schedule/)
 [Next 8-week MBSR class](/course-schedule/)<br>
@@ -39,7 +36,7 @@ Join us for the 8-week MBSR course in Vancouver.
 </div>
 
 <div class="index-col-4">
-<span class="far fa-hand-peace" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
+
 
 [![Instructor](/assets/spring1.jpg)](/about/)
 [Meet Instructor](/about/)<br>
