@@ -59,7 +59,7 @@ Join us for the MBSR 8-week course in Vancouver.
 
 [![Instructor](/assets/spring1.jpg)](/about/)
 [Meet Instructor](/about/)<br>
-Katarina Tabi is a scientist, mindfulness teacher and foremost, a long-term mindfulness practitioner. She is a qualified MBSR teacher, trained by the University of Massachusetts Medical School.
+Katarina Tabi is a scientist and a qualified MBSR teacher, trained by the University of Massachusetts Medical School.
 
 </div>
 
