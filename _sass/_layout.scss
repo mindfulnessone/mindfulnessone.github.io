@@ -445,7 +445,7 @@ pre code.hljs {
             @include span-columns(12);
         }
         @include media ($tablet) {
-            @include span-columns(4);
+            @include span-columns(6);
         }
     }
 
@@ -456,19 +456,28 @@ pre code.hljs {
             margin-right: 0;
         }
         @include media ($tablet) {
-            @include span-columns(4);
+            @include span-columns(6);
         }
     }
-    /*
-    *   Site Description/Signature (right)
-    */
+
     .index-col-3 {
         @include span-columns(12);
         @include media ($mobile) {
             @include span-columns(12);
         }
         @include media ($tablet) {
-            @include span-columns(4);
+            @include span-columns(6);
         }
     }
+	
+    .index-col-4 {
+        @include span-columns(12);
+        @include media ($mobile) {
+            @include span-columns(12);
+        }
+        @include media ($tablet) {
+            @include span-columns(6);
+        }
+    }
+	
 }
