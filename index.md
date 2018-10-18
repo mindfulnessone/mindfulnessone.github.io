@@ -5,7 +5,7 @@ main_nav: true
 order: 1
 ---
 
-## Dear friend, welcome!
+### Dear friend, welcome!
 
 <div class="index-cols">
 <div class="index-col-1">
