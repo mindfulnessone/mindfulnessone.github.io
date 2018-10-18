@@ -10,7 +10,7 @@ sitemap: false
 
 Dear friend, welcome!
 
-[Learn more](/mbsr/) about mindfulness and Mindfulness-Based Stress Reduction (MBSR)
+[Learn more](/mbsr/) about mindfulness and Mindfulness-Based Stress Reduction (MBSR).
 
 [Register here](/register/) for the upcoming Free info session about MBSR on October 23, 2018.
 
@@ -28,12 +28,9 @@ Katarina Tabi is a scientist, mindfulness teacher and foremost, a long-term mind
 
 <span class="fas fa-brain" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
 
-![meet](/assets/greenheart.jpg)
-## Hello
 
-World does it work? Testing column 1 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et porta leo, vel euismod elit. Maecenas luctus risus sem, vel iaculis nisl accumsan id. Nunc ultrices mollis enim. Ut at convallis eros. Nulla placerat lectus risus, vitae interdum mi dignissim ac. Praesent non nunc est. Morbi nec justo felis. Aenean dui nunc, fermentum sed consectetur quis, porta sed dui. Cras non risus in nisl pharetra eleifend ac at mi.
+[![Learn more](/assets/lotus1.jpg)](/mbsr/)
+[Learn more](/mbsr/) about mindfulness and Mindfulness-Based Stress Reduction (MBSR).
 
 </div>
 
@@ -41,9 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et porta leo, v
 
 <span class="fas fa-om" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
 
-## World
-
-Duis auctor blandit mattis. Nam metus diam, vehicula at ante ac, auctor mattis lectus. In hendrerit sit amet orci non rhoncus. Ut pharetra ex sapien, vitae tincidunt tellus consectetur in. Phasellus tempor lobortis sem, dapibus condimentum lorem blandit eget. Aliquam vehicula neque id hendrerit ullamcorper. Vivamus fermentum euismod arcu, sed elementum dolor auctor ut. Suspendisse potenti. Nullam in ligula eu tortor congue vulputate quis at nibh. Proin interdum vitae odio sed pretium. Ut magna erat, pretium eu nunc et, iaculis commodo odio. Donec consectetur nulla quis malesuada sodales.
+![Register](/assets/sprout1.jpg)
+[Register here](/register/) for the upcoming Free info session about MBSR on October 23, 2018.
 
 </div>
 </div>
