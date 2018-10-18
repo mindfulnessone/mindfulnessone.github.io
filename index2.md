@@ -46,7 +46,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et porta leo, v
 Duis auctor blandit mattis. Nam metus diam, vehicula at ante ac, auctor mattis lectus. In hendrerit sit amet orci non rhoncus. Ut pharetra ex sapien, vitae tincidunt tellus consectetur in. Phasellus tempor lobortis sem, dapibus condimentum lorem blandit eget. Aliquam vehicula neque id hendrerit ullamcorper. Vivamus fermentum euismod arcu, sed elementum dolor auctor ut. Suspendisse potenti. Nullam in ligula eu tortor congue vulputate quis at nibh. Proin interdum vitae odio sed pretium. Ut magna erat, pretium eu nunc et, iaculis commodo odio. Donec consectetur nulla quis malesuada sodales.
 
 </div>
+</div>
 
+<div class="index-cols">
 <div class="index-col-3">
 <span class="far fa-hand-peace" style="font-size: 50px; display: inline-block; width: 100%; text-align:center;"></span>
 
