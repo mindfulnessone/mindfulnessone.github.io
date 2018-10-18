@@ -453,7 +453,6 @@ pre code.hljs {
         @include span-columns(12);
         @include media ($mobile) {
             @include span-columns(12);
-            margin-right: 0;
         }
         @include media ($tablet) {
             @include span-columns(6);
