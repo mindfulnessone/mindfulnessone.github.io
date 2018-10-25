@@ -55,3 +55,8 @@ Katarina Tabi is a scientist and a qualified MBSR teacher, trained by the Univer
 </div>
 
 [Subscribe](/contact/) and hear about future events.
+
+Other older content:
+Course schedule
+MBSR 8-week course
+- Prerequisites: All MBSR participants are recommended to attend the free info session prior to the beginning of the MBSR program. If you are/were unable to attend the info session, please contact the teacher for an alternative (katarina.mindfulness@gmail.com).
