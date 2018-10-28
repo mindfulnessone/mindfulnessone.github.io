@@ -11,6 +11,14 @@ order: 2
 
 Designed in 1979 by Professor John Kabat-Zinn at the University of Massachusetts Medical School, MBSR is the gold-standard in mindfulness interventions. Three decades of published research indicate that the majority of people who complete this standardized program report greater ability to cope more effectively with stressful situations and improvement in their quality of life. The program supports participants to draw on their inner resources and natural capacity to actively engage in caring for themselves and finding greater balance, ease, and peace of mind.
 
+#### Benefits in daily life
+* increased awareness and concentration
+* managing distress 
+* discovering new ways to cope with existing difficulties or pain
+* increased resilience
+* living with more ease, balance, and happiness
+
+
 #### Conditions, for which MBSR showed to be helpful.
 * Anxiety & Panic Attacks
 * Work, Family, and Financial Stress
