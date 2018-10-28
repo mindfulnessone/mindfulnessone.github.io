@@ -19,7 +19,7 @@ Designed in 1979 by Professor John Kabat-Zinn at the University of Massachusetts
 * living with more ease, balance, and happiness
 
 
-#### Conditions, for which MBSR showed to be helpful.
+#### Conditions, for which MBSR showed to be helpful
 * Anxiety & Panic Attacks
 * Work, Family, and Financial Stress
 * Asthma
