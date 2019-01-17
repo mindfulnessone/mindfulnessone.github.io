@@ -20,7 +20,6 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 [Details](/mbsr/)
 - When: Tuesday evenings 6:30-9pm; begins October 30, 2018 (schedule below)
 - Where: West Point Grey Community Centre, 4350 W 2nd Ave, Vancouver, BC V6R 1K3
-- Fee: $ 90 (people with low-income can apply for 50% discount through [LAP program](https://vancouver.ca/parks-recreation-culture/leisure-access-card.aspx))
 - Notes: In order to fully benefit from the program, you are strongly encouraged to set aside 20 to 40 minutes for daily home-practice.
 
 [Register](/register-8week-mbsr/)
