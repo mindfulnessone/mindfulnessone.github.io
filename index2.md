@@ -60,3 +60,5 @@ Other older content:
 Course schedule
 MBSR 8-week course
 - Prerequisites: All MBSR participants are recommended to attend the free info session prior to the beginning of the MBSR program. If you are/were unable to attend the info session, please contact the teacher for an alternative (katarina.mindfulness@gmail.com).
+
+- Fee: $ 90 (people with low-income can apply for 50% discount through [LAP program](https://vancouver.ca/parks-recreation-culture/leisure-access-card.aspx))
