@@ -6,7 +6,7 @@ main_nav: false
 sitemap: true
 ---
 
-### Free Info Session about MBSR for C&W Hsopital staff
+### Free Info Session about MBSR for C&W Hospital staff
 Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8 week program).
 
 - When: February 20, 2019 \| 5pm to 6:30pm
