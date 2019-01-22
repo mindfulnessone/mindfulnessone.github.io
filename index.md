@@ -20,7 +20,7 @@ order: 1
 
 
 [![Register](/assets/sprout1.jpg)](/register/)
-[Register here](/register/) for the upcoming Free info session about MBSR on October 23, 2018.
+[Register here](/register/) for the upcoming Free info session about MBSR.
 
 </div>
 </div>
