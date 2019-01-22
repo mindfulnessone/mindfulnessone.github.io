@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mindfulness for all staff at Children's and Women's Hospital
+title: Mindfulness for all staff at BC Children's and Women's Hospital
 permalink: /hospital-staff/
 main_nav: false
 sitemap: true
