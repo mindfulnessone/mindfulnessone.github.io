@@ -6,17 +6,17 @@ main_nav: false
 sitemap: true
 ---
 
-### Free Info Session about MBSR for C&W Hospital staff
+### Free Info Session about MBSR
 Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8 week program).
 
 - When: February 20, 2019 \| 5pm to 6:30pm
 - Where: 4500 Oak St., C&W Hospital Oak Campus, Building 81 (part of Healthy Minds Centre), room P1-220
 - Fee: Free (registration recommended to reserve a seat; drop ins are OK too, but place is not guaranteed)
 
-[Register](/register/)
+[Register](/register-hospital/)
 
 
-### 8-week course (rooted in MBSR) for C&W Hsopital staff
+### 8-week course (rooted in MBSR) for C&W Hospital staff
 [Details](/mbsr/)
 - When: Wednesdays evenings 5-6:30pm; begins February 27, 2019 (schedule below)
 - Where: 4500 Oak St., C&W Hospital Oak Campus, Building 81 (part of Healthy Minds Centre), room P1-220
@@ -24,7 +24,7 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 - Eligibility: All staff and volunteers at C&W Hospital are encouraged to participate, including the clinical staff, administration, research, maintenance, etc.
 - Notes: The content and design of this course will be informed by MBSR curriculum but the weekly sessions will be shorter (1.5h) compare to the original course. Therefore, this course is not MBSR. In order to fully benefit from the program, participants are strongly encouraged to set aside 10 to 40 minutes for daily home-practice.
 
-[Register](/register-8week-mbsr/)
+[Register](/register-8week-hospital/)
 
 #### Schedule
 
