@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Home
+title_override: Mindfulness Based Stress Reduction in Vancouver
 main_nav: true
 order: 1
 ---
