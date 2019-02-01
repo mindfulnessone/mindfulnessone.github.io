@@ -2,7 +2,8 @@
 layout: page
 title: Register
 permalink: /register-hospital/
-main_nav: false
+main_nav: true
+order: 4
 ---
 
 To register for the free info session at C&W Hospital, please continue below. Registration will reserve you a seat in the room.
