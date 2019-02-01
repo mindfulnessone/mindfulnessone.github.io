@@ -11,7 +11,7 @@ order: 3
 ### Free Info Session about MBSR
 Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8 week MBSR program).
 
-- When: October 23, 2018 \| 7pm to 8:30pm
+- When: April 2019 (exact date TBA)
 - Where: West Point Grey Community Centre, 4350 W 2nd Ave, Vancouver, BC V6R 1K3; Aberthau House, Library room
 - Fee: Free (registration recommended to reserve a seat; drop ins are OK too, but place is not guaranteed)
 
@@ -20,22 +20,10 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 
 ### MBSR 8-week course
 [Details](/mbsr/)
-- When: Tuesday evenings 6:30-9pm; begins October 30, 2018 (schedule below)
+- When: April/May 2019 (TBA); [Subscribe](/contact/) to be notified once the next schedule is announced.
 - Where: West Point Grey Community Centre, 4350 W 2nd Ave, Vancouver, BC V6R 1K3
 - Notes: In order to fully benefit from the program, you are strongly encouraged to set aside 20 to 40 minutes for daily home-practice.
 
 [Register](/register-8week-mbsr/)
 
-#### Schedule
 
-| Session   | Date         | Time     |
-|-----------|--------------|----------|
-| Session 1 | Tue, Oct. 30 | 6:30-9pm |
-| Session 2 | Tue, Nov. 6  | 6:30-9pm |
-| Session 3 | Tue, Nov. 13 | 6:30-9pm |
-| Session 4 | Tue, Nov. 20 | 6:30-9pm |
-| Session 5 | Tue, Nov. 27 | 6:30-9pm |
-| Session 6 | Tue, Dec. 4  | 6:30-9pm |
-| All-Day | TBA (weekend day in Dec.) | TBA (6h length) |
-| Session 7 | Tue, Dec. 11 | 6:30-9pm |
-| Session 8 | Tue, Dec. 18 | 6:30-9pm |
