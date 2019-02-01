@@ -21,7 +21,7 @@ order: 1
 
 
 [![Register](/assets/sprout1.jpg)](/register/)
-[Register here](/register/) for the upcoming Free info session about MBSR.
+[Register here](/register-hospital/) for the upcoming Free info session about MBSR.
 
 </div>
 </div>
