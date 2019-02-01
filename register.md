@@ -2,8 +2,7 @@
 layout: page
 title: Register
 permalink: /register/
-main_nav: true
-order: 4
+main_nav: false
 ---
 
 To register for the free info session, please continue below. Registration will reserve you a seat in the room.
