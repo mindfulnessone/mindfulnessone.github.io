@@ -20,6 +20,7 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 [Details](/mbsr/)
 - When: Wednesdays evenings 5-6:30pm; begins February 27, 2019 (schedule below)
 - Where: 4500 Oak St., C&W Hospital Oak Campus, Building 81 (part of Healthy Minds Centre), room P1-220
+- Teachers: [Katarina Tabi](/about/), Helen Kennett-Bacon
 - Fee: 15$ is the enrollment fee for the entire course. This is a special opportunity for C&W Hospital staff, funded by a PHSA Health Promotion grant. Full price for similar courses in the community is between 300-500$. In case the enrollment fee prevents you from joining, you will not be turned away, just [contact us](/contact/).
 - Eligibility: All staff and volunteers at C&W Hospital are encouraged to participate, including the clinical staff, administration, research, maintenance, etc.
 - Notes: The content and design of this course will be informed by MBSR curriculum but the weekly sessions will be shorter (1.5h) compare to the original course. Therefore, this course is not MBSR. In order to fully benefit from the program, participants are strongly encouraged to set aside 10 to 40 minutes for daily home-practice.
