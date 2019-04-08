@@ -40,4 +40,4 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 | Session 7 | Wed, Apr. 10 | 5-6:30pm |
 | Session 8 | Wed, Apr. 17 | 5-6:30pm |
 
-For more details about classes for hospital staff contact: hkennettbacon@cw.bc.ca
+For more details about classes for hospital staff [send us an email or subscribe](/contact/).
