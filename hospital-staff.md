@@ -36,7 +36,7 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 | Session 4 | Wed, Mar. 20 | 5-6:30pm |
 | Session 5 | Wed, Mar. 27 | 5-6:30pm |
 | Session 6 | Wed, Apr. 3  | 5-6:30pm |
-| All-Day | TBA (weekend day in Apr.) | TBA (3h length) |
+| All-Day | Mon, Apr. 8 | 5pm |
 | Session 7 | Wed, Apr. 10 | 5-6:30pm |
 | Session 8 | Wed, Apr. 17 | 5-6:30pm |
 
