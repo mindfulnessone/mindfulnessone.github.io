@@ -67,14 +67,14 @@
 
     async function clickDonateButton() {
         if (isRecurrent) {
-            await clickDonateButtonForReal({plan: 'plan_H1jo1cLEF8uJAx', quantity: price});
+            await clickDonateButtonForReal({plan: 'plan_H1joqlfPdhtEeb', quantity: price});
         } else {
-            await clickDonateButtonForReal({sku: 'sku_H1jmuma9Fh4C0T', quantity: price});
+            await clickDonateButtonForReal({sku: 'sku_H1jmGgXLYfix4y', quantity: price});
         }
     }
 
     async function clickDonateButtonForReal(item) {
-        const stripe = await loadStripe('pk_test_yJ9yqsXA00uFXjyuenFHJGol00cOQ2IXuf');
+        const stripe = await loadStripe('pk_live_TsW6sy751tsXWBIPnzpTUZrI00HePBpp4m');
 
         stripe.redirectToCheckout({
             items: [
