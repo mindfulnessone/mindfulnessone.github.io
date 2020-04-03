@@ -1,5 +1,6 @@
 <script>
     import {loadStripe} from '@stripe/stripe-js';
+    import { onMount } from 'svelte';
     import { tick } from 'svelte';
 
     export let useHash = false;
@@ -37,6 +38,10 @@
     let isVisible = (window.location.hash === '#donate') && useHash;
 
     $: otherButtonPressed = price !== 5 && price !== 10 && price !== 20 && price !== 100 || otherButtonPressed;
+
+    onMount(async () => {
+        priceInput.focus();
+    });
 
     async function showModal() {
         window.location.hash = '#donate';
