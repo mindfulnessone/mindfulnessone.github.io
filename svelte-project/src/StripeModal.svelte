@@ -35,7 +35,7 @@
 
     let isVisible = (window.location.hash === '#donate') && useHash;
 
-    $: otherButtonPressed = price !== 5 && price !== 10 && price !== 20 && price !== 50 || otherButtonPressed;
+    $: otherButtonPressed = price !== 5 && price !== 10 && price !== 20 && price !== 100 || otherButtonPressed;
 
     function showModal() {
         window.location.hash = '#donate';
@@ -290,9 +290,9 @@
                         class="{price === 20 && !otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
                     20
                 </button>
-                <button on:click={() => setDonation('50')}
-                        class="{price === 50 && !otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
-                    50
+                <button on:click={() => setDonation('100')}
+                        class="{price === 100 && !otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
+                    100
                 </button>
                 <button on:click={otherButton}
                         class="{otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
