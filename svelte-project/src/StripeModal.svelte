@@ -4,7 +4,9 @@
 
     export let useHash = false;
 
-    let priceText = '20';
+    let priceText = '';
+
+    $: price = parseInt(priceText, 10);
 
     let priceInput;
 
@@ -16,7 +18,13 @@
 
     let inputError = false;
 
-    $: if (!priceText || !priceText.match(/^[0-9]*$/)) {
+    $: if (!priceText) {
+        inputError = false;
+        disclaimerMessage = "Please write number into the box."
+    } else if (!priceText.match(/^[0-9]*$/)) {
+        inputError = true;
+        disclaimerMessage = "Please input whole number bigger than zero.";
+    } else if (parseInt(priceText, 10) < 1) {
         inputError = true;
         disclaimerMessage = "Please input whole number bigger than zero.";
     } else {
@@ -25,14 +33,6 @@
                 + (isRecurrent ? ' and then billed ' + price + '.00 CAD each month' : '')
                 + '.';
     }
-
-    $: price = parseInt(priceText);
-
-    $: if (price < 1) {
-        inputError = true;
-        disclaimerMessage = "Pleas input whole number bigger than zero.";
-    }
-
 
     let isVisible = (window.location.hash === '#donate') && useHash;
 
