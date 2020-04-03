@@ -486,3 +486,27 @@ pre code.hljs {
     }
 	
 }
+
+.modal-body {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	background-color: #fefefe;
+	padding: 20px 20px 10px 20px;
+	border: 1px solid #888;
+	max-width: 700px;
+	width: 100%;
+
+	@include media ($mobile) {
+		width: 100%;
+	}
+	@include media ($tablet) {
+		width: 100%
+	}
+
+	@include media($desktop) {
+		width: 75%;
+	}
+}

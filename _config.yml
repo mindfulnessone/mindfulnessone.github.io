@@ -7,6 +7,7 @@ gems:
 
 exclude:
   - "/vendor/"
+  - svelte-project
 
 # Site settings
 title: Mindfulness Based Stress Reduction<br> in Vancouver
