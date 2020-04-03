@@ -11,7 +11,7 @@ order: 3
 ### Free Info Session about MBSR
 Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8 week MBSR program).
 
-- When: April 28, 2020 at 7pm
+- When: April 28, 2020 at 7pm (PT)
 - Where: Online via Zoom
 - Fee: Free (registration recommended to receive the Zoom link and info in advance)
 
