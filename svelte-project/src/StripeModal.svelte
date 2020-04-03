@@ -1,5 +1,6 @@
 <script>
     import {loadStripe} from '@stripe/stripe-js';
+    import { tick } from 'svelte';
 
     export let useHash = false;
 
@@ -37,9 +38,11 @@
 
     $: otherButtonPressed = price !== 5 && price !== 10 && price !== 20 && price !== 100 || otherButtonPressed;
 
-    function showModal() {
+    async function showModal() {
         window.location.hash = '#donate';
         isVisible = true;
+        await tick();
+        priceInput.focus();
     }
 
     function hideModal() {
@@ -194,12 +197,12 @@
 
     .price-input {
         margin: 5px 0 5px 5px;
-        width: 100px;
+        width: 140px;
         /* min-width: 0; */
         font-size: 50px;
         color: coral;
         text-align: right;
-        border-color: white;
+        border-color: #c4c4c4;
         padding-right: 0;
         box-shadow: none;
 
@@ -240,6 +243,7 @@
         flex-direction: row;
         justify-content: center;
         align-items: baseline;
+        margin-bottom: 16px;
     }
 
     .disclaimer {
@@ -275,30 +279,6 @@
         <span class="close" on:click={hideModal}>&times;</span>
         <h3 class="modal-header">How much would you like to donate?</h3>
         <div class="modal-content">
-
-
-            <div class="modal-buttons">
-                <button on:click={() => setDonation('5')}
-                        class="{price === 5 && !otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
-                    5
-                </button>
-                <button on:click={() => setDonation('10')}
-                        class="{price === 10 && !otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
-                    10
-                </button>
-                <button on:click={() => setDonation('20')}
-                        class="{price === 20 && !otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
-                    20
-                </button>
-                <button on:click={() => setDonation('100')}
-                        class="{price === 100 && !otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
-                    100
-                </button>
-                <button on:click={otherButton}
-                        class="{otherButtonPressed ? 'active-button' : 'inactive-button'} price-button">
-                    Other
-                </button>
-            </div>
             <div class="input-row">
                 <input type="text"
                        bind:value={priceText}
