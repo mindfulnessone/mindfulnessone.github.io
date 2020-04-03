@@ -11,18 +11,18 @@ order: 3
 ### Free Info Session about MBSR
 Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8 week MBSR program).
 
-- When: Fall 2019 (exact date TBA)
-- Where: West Point Grey Community Centre, 4350 W 2nd Ave, Vancouver, BC V6R 1K3; Aberthau House, Library room
-- Fee: Free (registration recommended to reserve a seat; drop ins are OK too, but place is not guaranteed)
+- When: April 28, 2020 at 7pm
+- Where: Online via Zoom
+- Fee: Free (registration recommended to receive the Zoom link and info in advance)
 
 [Register](/register/)
 
 
 ### MBSR 8-week course
 [Details](/mbsr/)
-- When: Fall 2019 (TBA); [Subscribe](/contact/) to be notified once the next schedule is announced.
-- Where: West Point Grey Community Centre, 4350 W 2nd Ave, Vancouver, BC V6R 1K3
-- Notes: In order to fully benefit from the program, you are strongly encouraged to set aside 20 to 40 minutes for daily home-practice.
+- When: May 2020, Tuesday evenings (TBA); [Subscribe](/contact/) to be notified once the exact schedule is announced.
+- Where: Live online meetings via Zoom (We will try to bring as much as possible of the in person classes to the online environment) 
+- Notes: In order to fully benefit from the program, you are encouraged to set aside 20 to 40 minutes for daily home-practice, in addition to the classes. MBSR classes are interactive and experiential. 
 
 [Register](/register-8week-mbsr/)
 
