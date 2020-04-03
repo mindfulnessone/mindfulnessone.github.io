@@ -311,7 +311,7 @@
                         class="{isRecurrent ? 'active-button' : 'inactive-button'} recurring-button">Donate every month
                 </button>
             </div>
-            <button disabled='{inputError}' on:click={clickDonateButton} class="{inputError ? 'donate-button-disabled' : ''} donate-button">Donate</button>
+            <button disabled='{inputError || !priceText}' on:click={clickDonateButton} class="{inputError ? 'donate-button-disabled' : ''} donate-button">Donate</button>
             <div class="disclaimer-container">
                 <p class="{inputError ? 'disclaimer-error' : 'disclaimer'}">{disclaimerMessage}</p>
             </div>
