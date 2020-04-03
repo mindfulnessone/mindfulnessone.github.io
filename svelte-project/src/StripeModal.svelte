@@ -290,7 +290,8 @@
                        bind:this={priceInput}
                        on:keydown={setOther}
                        class="price-input {priceInputHover ? 'price-input-hover' : ''}"
-                       pattern="[0-9]*">
+                       pattern="[0-9]*"
+                       placeholder=" ">
                 <p class="price-label"
                    on:mouseenter={showInputBorder}
                    on:mouseleave={hideInputBorder}
