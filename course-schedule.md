@@ -21,7 +21,7 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 ### MBSR 8-week course
 [Details](/mbsr/)
 - When: May 2020, Tuesday evenings (TBA); [Subscribe](/contact/) to be notified once the exact schedule is announced.
-- Where: Live online meetings via Zoom (We will try to bring as much as possible of the in person classes to the online environment) 
+- Where: Live online meetings via Zoom (We will try to bring as much as possible of the in person class experience to the online environment) 
 - Notes: In order to fully benefit from the program, you are encouraged to set aside 20 to 40 minutes for daily home-practice, in addition to the classes. MBSR classes are interactive and experiential. 
 
 [Register](/register-8week-mbsr/)
