@@ -20,7 +20,7 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 
 ### MBSR 8-week course
 [Details](/mbsr/)
-- When: May 2020, Tuesday evenings (TBA); [Subscribe](/contact/) to be notified once the exact schedule is announced.
+- When: Tuesday evenings 6-8:30pm; begins May 5, 2020 (schedule below)
 - Where: Live online meetings via Zoom (We will try to bring as much as possible of the in-person-class-experience to the online environment) 
 - Fee: $ 200 (people with low-income or financial difficulty can apply for 50% scholarship or other financial support emailing to katarina.mindfulness@gmail.com). If resources prevent you from joining, you will not be turned away. 
 - Prerequisites: All MBSR participants are recommended to attend the free info session prior to the beginning of the MBSR program. If you are/were unable to attend the info session, please contact the teacher for an alternative (katarina.mindfulness@gmail.com).
@@ -28,4 +28,16 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 
 [Register](/register-8week-mbsr/)
 
+#### Schedule
 
+| Session   | Date         | Time     |
+|-----------|--------------|----------|
+| Session 1 | Tue, May 5 | 6-8:30pm |
+| Session 2 | Tue, May 12 | 6-8:30pm |
+| Session 3 | Tue, May 19 | 6-8:30pm |
+| Session 4 | Tue, May 26 | 6-8:30pm |
+| Session 5 | Tue, June 2 | 6-8:30pm |
+| Session 6 | Tue, June 9  | 6-8:30pm |
+| All-Day | TBA (weekend day) | TBA (6h length) |
+| Session 7 | Tue, June 16 | 6-8:30pm |
+| Session 8 | Tue, Dec. 23 | 6-8:30pm |
