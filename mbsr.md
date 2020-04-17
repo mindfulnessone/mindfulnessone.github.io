@@ -45,7 +45,7 @@ www.umassmed.edu/cfm/mindfulness-based-programs/mbsr-courses/about-mbsr/](https:
 www.umassmed.edu/cfm/mindfulness-based-programs/mbsr-courses/about-mbsr/)
 
 #### How the MBSR program works?
-MBSR is an intensive structured group program that provides instruction in
+MBSR is an intensive comprehensive group program that provides foundation and instruction in
 mindfulness meditation practices to heighten awareness of how we react to both
 emotional and physical pain. It addresses the stresses of coping with challenging
 symptoms and serves as a valuable complement and support to regular medical
@@ -57,7 +57,7 @@ MBSR program consists of:
 - 8 weekly classes (each class for 2.5h-3h) 
 - One daylong retreat session (6h)
 - Audio recordings to guide home practice
-- weekly handouts
+- Weekly handouts
  
 The program includes: 
 - mindfulness meditation practices
