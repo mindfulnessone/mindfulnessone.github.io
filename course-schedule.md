@@ -40,4 +40,4 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 | Session 6 | Tue, June 9  | 6-8:30pm |
 | All-Day | TBA (weekend day) | TBA (6h length) |
 | Session 7 | Tue, June 16 | 6-8:30pm |
-| Session 8 | Tue, Dec. 23 | 6-8:30pm |
+| Session 8 | Tue, June 23 | 6-8:30pm |
