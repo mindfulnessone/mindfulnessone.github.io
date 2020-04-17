@@ -23,7 +23,7 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 - When: Tuesday evenings 6-8:30pm; begins May 5, 2020 (schedule below)
 - Where: Live online meetings via Zoom (we aim to bring as much as possible of the in-person-class-experience to the online environment) 
 - Fee: $ 200 (people with low-income or financial difficulty can apply for 50% scholarship or other financial support, by emailing to katarina.mindfulness@gmail.com). If resources prevent you from joining, you will not be turned away. 
-- Prerequisites: All MBSR participants are recommended to attend the free info session prior to the beginning of the MBSR program. If you are/were unable to attend the info session, please contact the teacher for an alternative (katarina.mindfulness@gmail.com).
+- Prerequisites: All MBSR participants are recommended to attend the free info session prior to the beginning of the MBSR program. If you are unable to attend the info session, please contact the teacher for an alternative.
 - Notes: In order to fully benefit from the program, you are encouraged to set aside 20 to 40 minutes for daily home-practice, in addition to the classes. MBSR classes are interactive and experiential. 
 
 [Register](/register-8week-mbsr/)
