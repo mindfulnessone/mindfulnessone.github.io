@@ -2,10 +2,11 @@
 layout: page
 title: Register
 permalink: /register/
-main_nav: false
+main_nav: true
+order: 4
 ---
 
-To register for the free info session, please continue below. Registration will reserve you a seat in the room.
+To register for the free info session, please continue below. Registration will reserve you a spot in Zoom videoconference and you will receive details prior to the session.
 
 To register for the 8-week MBSR course, [click here](/register-8week-mbsr/).
 
