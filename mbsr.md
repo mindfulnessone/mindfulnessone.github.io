@@ -40,9 +40,7 @@ Designed in 1979 by Professor John Kabat-Zinn at the University of Massachusetts
 * Sleep Problems
 
 Information is based on research studies. For more info visit:
-[https://
-www.umassmed.edu/cfm/mindfulness-based-programs/mbsr-courses/about-mbsr/](https://
-www.umassmed.edu/cfm/mindfulness-based-programs/mbsr-courses/about-mbsr/)
+[https://goamra.org/resources/reviewsmeta-analysis/](https://goamra.org/resources/reviewsmeta-analysis/)
 
 #### How the MBSR program works?
 MBSR is an intensive comprehensive group program that provides foundation and instruction in
