@@ -13,9 +13,13 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 
 - When: April 28, 2020 at 7pm (PT)
 - Where: Online via Zoom
-- Fee: Free (registration recommended to receive the Zoom link and info in advance)
+- Fee: Free (registration recommended to receive details)
 
 [Register](/register/)
+
+More upcoming dates:
+- July 2020 (in person outdoors); September 2020 (in person or online) Details TBA
+Be notified when the next Info session is scheduled [here](/notify/)
 
 
 ### MBSR 8-week course
@@ -28,7 +32,7 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 
 [Register](/register-8week-mbsr/)
 
-#### Schedule
+#### Schedule for May 2020
 
 | Session   | Date         | Time     |
 |-----------|--------------|----------|
