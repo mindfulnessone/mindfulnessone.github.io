@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notify
+title: Notify me
 permalink: /notify/
 main_nav: false
 ---
