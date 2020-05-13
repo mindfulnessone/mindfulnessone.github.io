@@ -18,7 +18,8 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 [Register](/register/)
 
 More upcoming dates:
-- July 2020 (in person outdoors); September 2020 (in person or online) Details TBA
+- July 2020 (in person outdoors); September 2020 (in person or online) - Details TBA
+
 Be notified when the next Info session is scheduled [here](/notify/)
 
 
@@ -31,6 +32,9 @@ Be notified when the next Info session is scheduled [here](/notify/)
 - Notes: In order to fully benefit from the program, you are encouraged to set aside 20 to 40 minutes for daily home-practice, in addition to the classes. MBSR classes are interactive and experiential. 
 
 [Register](/register-8week-mbsr/)
+
+More upcoming dates: TBA
+Be notified when the next 8-week course is scheduled [here](/notify/)
 
 #### Schedule for May 2020
 
