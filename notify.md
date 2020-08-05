@@ -4,5 +4,10 @@ permalink: /notify/
 main_nav: false
 ---
 
+Notify me when the next event is scheduled
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAOkJCbBUNUUwWTYyS1haM0szN1VDRU4zNUZTQzE1Ti4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<form action="https://ftu1crqzy9.execute-api.us-east-1.amazonaws.com/submit-email" method="post">
+  <label for="email">Email:</label>
+  <input type="text" id="email" name="email">
+  <input type="submit" value="Submit">
+</form>
