@@ -33,6 +33,4 @@ Be notified when the next Info session is scheduled [here](/notify/)
 
 [Register](/register-8week-mbsr/)
 
-More upcoming dates: TBA
-
 Be notified when the next 8-week course is scheduled [here](/notify/)
