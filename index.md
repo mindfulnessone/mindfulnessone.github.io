@@ -21,7 +21,7 @@ order: 1
 
 
 [![Register](/assets/sprout1.jpg)](/register/)
-[Register here](/register/) for the upcoming Free info session about MBSR.
+[Register here](/register/) for the upcoming Free info session about Mindfulness and MBSR.
 
 </div>
 </div>
@@ -31,6 +31,7 @@ order: 1
 
 
 [![Schedule](/assets/greenheart1.jpg)](/course-schedule/)
+NEW! [Prenatal] (/course-schedule/) class for pregnant women
 [Next 8-week MBSR class](/course-schedule/)<br>
 Join us for the 8-week MBSR course in Vancouver.
 
