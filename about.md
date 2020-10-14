@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-main_nav: true
-order: 5
+main_nav: false
+
 ---
 
 <img src="{{ site.baseurl }}/assets/Website ACD - cut picture.jpg" title="Profile Picture" class="profile">
