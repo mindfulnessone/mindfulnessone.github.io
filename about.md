@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about2020/
+permalink: /about/
 main_nav: true
 order: 5
 ---
