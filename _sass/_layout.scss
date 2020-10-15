@@ -445,43 +445,47 @@ pre code.hljs {
         text-align: center;
     }
 
+    display: flex;
+
+    flex-direction: column;
+
+    @include media ($tablet) {
+      flex-direction: row;
+    }
+
+
     .index-col-1 {
-        @include span-columns(12);
-        @include media ($mobile) {
-            @include span-columns(12);
-        }
+      width: 100%;
+
         @include media ($tablet) {
-            @include span-columns(6);
+          width: 50%;
         }
     }
 
     .index-col-2 {
-        @include span-columns(12);
-        @include media ($mobile) {
-            @include span-columns(12);
-        }
+      width: 100%;
+
         @include media ($tablet) {
-            @include span-columns(6);
+          width: 50%;
+          margin-left: 2rem;
         }
     }
 
     .index-col-3 {
-        @include span-columns(12);
-        @include media ($mobile) {
-            @include span-columns(12);
-        }
+      width: 100%;
+
         @include media ($tablet) {
-            @include span-columns(6);
+          width: 50%;
         }
     }
 	
     .index-col-4 {
-        @include span-columns(12);
-        @include media ($mobile) {
-            @include span-columns(12);
-        }
+      width: 100%;
+
         @include media ($tablet) {
-            @include span-columns(6);
+          width: 50%;
+          margin-left: 2rem;
+    
         }
     }
 	
