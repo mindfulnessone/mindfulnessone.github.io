@@ -434,6 +434,20 @@ pre code.hljs {
 /*
 *   Index columns
 */
+
+.banner {
+  padding: 1.5rem 2rem;
+  margin: 25px 50px 40px 50px;
+  background-color: rgb(112, 170, 208);
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+
+  p {
+    margin: 0;
+  }
+}
+
 .index-cols {
 	  img {
         margin: 0;
