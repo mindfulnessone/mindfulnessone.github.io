@@ -8,8 +8,8 @@ order: 3
 
 
 
-### Free Info Session about Prenatal Mindfulness MBSR Program
-Attending the 1.5 hour free information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8-week Prenatal MBSR program).
+### Info Session about Prenatal Mindfulness MBSR Program
+Attending the 1.5 hour information session will give you a taste of what mindfulness is about. As well as provide you with an introduction to the science of mindfulness and benefits of the practice. It is open to all (anybody interested in mindfulness and those who have the intention to enroll in the 8-week Prenatal MBSR program).
 
 - When: October 27, 2020 at 6pm
 - Where: Online via Zoom
@@ -24,7 +24,6 @@ Attending the 1.5 hour free information session will give you a taste of what mi
 - When: Tuesday evenings 5:30-8pm; begins November 3, 2020 (schedule below)
 - Where: Live online meetings via Zoom (we aim to bring as much as possible of the in-person-class-experience to the online environment)
 - Teacher: [Katarina Tabi](/about/) - neuroscientist working in the area of women's perinatal health
-- Fee: $ 180 (people with low-income or financial difficulty can apply for 50% or full scholarship, by emailing to katarina.mindfulness@gmail.com). If resources prevent you from joining, you will not be turned away. 
 - Prerequisites: All MBSR participants are recommended to attend the free info session prior to the beginning of the MBSR program. If you are unable to attend the info session, please contact the teacher for an alternative.
 - Notes: In order to fully benefit from the program, you are encouraged to set aside 15 to 40 minutes for daily home-practice, in addition to the classes. MBSR classes are interactive and experiential. 
 
