@@ -28,5 +28,5 @@ Attending the 1 hour information session will give you a taste of what mindfulne
 
 [Register](/register-8week-mbsr/)
 
-Be notified when the next 8-week courses (for general population, pregnant women, or health-care professionals) are scheduled [here](/notify/)
+Be notified when the next 8-week courses (for general population, pregnant women, health-care professionals or hospital staff) are scheduled [here](/notify/)
 
