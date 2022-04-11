@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course schedule
-permalink: /course-schedule/
+permalink: /course-schedule-3/
 main_nav: false
 order: 4
 ---
