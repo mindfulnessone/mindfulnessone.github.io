@@ -28,5 +28,6 @@ Attending the 1 hour information session will give you a taste of what mindfulne
 
 [Register](/register-8week-mbsr/)
 
-Be notified when the next 8-week courses (for general population, pregnant women, health-care professionals or hospital staff) are scheduled [here](/notify/)
+Mindfulness MBSR for CW Hospital staff [here](/hospital-staff/)
+Be notified when the next 8-week courses (for general population, pregnant individuals, health-care professionals or hospital staff) are scheduled [here](/notify/)
 
