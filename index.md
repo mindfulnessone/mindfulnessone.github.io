@@ -54,7 +54,7 @@ order: 1
 </div>
 <div class="index-txt">
 
-NEW! [Prenatal](/course-schedule/) class for pregnant women. 
+NEW! [Prenatal](/course-schedule-prenatal/) class for pregnant women. 
 <br>[Next 8-week MBSR class](/course-schedule/)<br>
 Join us for the 8-week MBSR course in Vancouver.
 
